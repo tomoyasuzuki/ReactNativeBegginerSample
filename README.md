@@ -43,3 +43,6 @@ I'm a beginner even Javascript, not React Native.
 Therefore, there may be trivial notation mistakes, 
 architectural design mistakes, and possibly serious mistakes. 
 I would like to thank someone who points them out.
+
+## TODO
+- enable see defail of repositories (using webview)
